@@ -1,1 +1,28 @@
 /* CSS Document for multimedia demonstration */
+
+body{
+    background-color: green;
+}
+
+.pagebox{
+    background-color: skyblue;
+    width: 70%;
+    margin: auto;
+}
+
+header{
+    background-image: url('images/banner.jpg');
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    
+}
+
+h1{
+    font-size: 72px;
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
