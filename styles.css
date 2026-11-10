@@ -1,7 +1,7 @@
 /* CSS Document for multimedia demonstration */
 
 body{
-    background-color: green;
+    background-color: aquamarine;
 }
 
 .pagebox{
@@ -15,7 +15,6 @@ header{
     background-size: cover;
     height: 300px;
     position: relative;
-    
 }
 
 h1{
@@ -25,4 +24,21 @@ h1{
     position: absolute;
     bottom: 0;
     left: 0;
+}
+
+.topnav{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+    float: left;
+    font-family: sans-serif;
+}
+
+.topnav a{
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
