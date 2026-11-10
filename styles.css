@@ -42,3 +42,22 @@ h1{
     padding: 14px 16px;
     text-decoration: none;
 }
+
+.topnav a:hover{
+    background-color: #111111;
+}
+
+.current{
+    background-color: #ffb94a
+}
+
+h2{
+    font-family: sans-serif;
+    color: #ffb94a;
+}
+
+.smallpic{
+    width: 33%;
+    float: left;
+    padding: 3px;
+}
